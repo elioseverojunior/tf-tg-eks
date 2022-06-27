@@ -1,0 +1,13 @@
+---
+Environment: sandbox
+pd:ansible: false
+pd:deployer: elio.severo@passeidireto.com
+pd:iac: terraform
+pd:owner: SRE
+pd:project: Terraform AWS EKS
+pd:region: sa-east-1
+pd:repo: https://github.com/PasseiDireto/terraform-aws-eks
+pd:stack: EKS Sandbox
+pd:tier: infra
+propagate_at_launch: true
+PropagateAtLaunch: true

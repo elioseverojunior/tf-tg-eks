@@ -1,0 +1,17 @@
+---
+# Your AWS Account ID
+aws_account_id: 848684029682
+
+# Prefix to be added to created resources
+prefix: ""
+
+# AWS S3 bucket region where Terraform will store state
+tf_state_bucket_region: sa-east-1
+
+# Github username or organization, this can be used by Flux2 to auto configure
+# Github bootstrap
+github_owner: Agrium
+
+s3_bucket_tf_state: nutrien-terraform-br-nickel 
+
+vpc_id: "vpc-0d2844d34c70f4560"
